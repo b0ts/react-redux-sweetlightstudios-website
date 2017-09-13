@@ -1,0 +1,553 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ligh",
+				"lightSpeedIn"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"f",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"js",
+				"jsBuySdkLib"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Autoprefix CSS"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"clear",
+			"view.settings().get('tab_size')",
+			"view.settings().get('font_face')",
+			"ls",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/oem/code/React/sls_tutorial",
+		"/Users/oem/code/React/sls_tutorial/sls44_rest_v2",
+		"/Users/oem/code/React/sls_tutorial/sls44_rest_v2/slswebsite",
+		"/Users/oem/code/React/sls_tutorial/sls44_rest_v2/slswebsite/src",
+		"/Users/oem/code/React/sls_tutorial/sls44_rest_v2/slswebsite/src/components",
+		"/Users/oem/code/React/sls_tutorial/sls44_rest_v2/slswebsite/src/configs",
+		"/Users/oem/code/React/sls_tutorial/sls44_rest_v2/slswebsite/src/containers",
+		"/Users/oem/code/React/sls_tutorial/sls44_rest_v2/slswebsite/src/containers/articles"
+	],
+	"file_history":
+	[
+		"/Users/oem/code/React/sls_tutorial/sls44_rest_v2/slswebsite/src/containers/blurb.js",
+		"/Users/oem/code/React/sls_tutorial/sls44_rest_v2/slswebsite/src/containers/three_column_products.js",
+		"/Users/oem/code/React/sls_tutorial/sls44_rest_v2/slswebsite/src/components/grid_product.js",
+		"/Users/oem/code/React/sls_tutorial/sls44_rest_v2/slswebsite/src/components/product_options.js",
+		"/Users/oem/code/React/sls_tutorial/sls44_rest_v2/slswebsite/src/configs/site_config_en.json",
+		"/Users/oem/code/React/sls_tutorial/sls44_rest_v2/slswebsite/src/index.css",
+		"/Users/oem/code/React/sls_tutorial/sls44_rest_v2/slswebsite/src/containers/articles/blog_post.js",
+		"/Users/oem/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/oem/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/reducers/blog_posts_reducer.js",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/readme.txt",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/configs/site_config_en.json",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/containers/articles/home.js",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/containers/footer_banners.js",
+		"/Users/oem/code/React/sls_tutorial/sls42_activation/slswebsite/src/configs/site_config_en.json",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/actions/index.js",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/containers/articles/blog_post.js",
+		"/Users/oem/code/React/sls_tutorial/sls42_activation/slswebsite/src/containers/articles/home.js",
+		"/Users/oem/code/React/sls_tutorial/sls42_activation/slswebsite/src/actions/index.js",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/reducers/index.js",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/reducers/blog_recent_post_reducer.js",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/containers/articles/blog.js",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/containers/blog_categories.js",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/components/blog_category.js",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/reducers/blog_post_count_reducer.js",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/reducers/blog_post_reducer.js",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/containers/blog_page_buttons.js",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/containers/blog_posts.js",
+		"/Users/oem/code/React/sls_tutorial/sls43_trailer_bonus/slswebsite/src/containers/blog_page_buttons.js",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/configs/site_config.js",
+		"/Users/oem/code/React/sls_tutorial/sls43_trailer_bonus/slswebsite/src/containers/articles/blog_post.js",
+		"/Users/oem/code/React/sls_tutorial/sls42_activation/slswebsite/src/containers/articles/policies.js",
+		"/Users/oem/code/React/sls_tutorial/sls42_activation/slswebsite/src/containers/articles/blog_post.js",
+		"/Users/oem/code/React/sls_tutorial/sls43_trailer_bonus/slswebsite/src/containers/articles/policies.js",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/configs/site_config_fr.json",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/reducers/blog_title_reducer.js",
+		"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src/containers/articles/policies.js",
+		"/Users/oem/code/React/sls_tutorial/sls43_trailer_bonus/slswebsite/fsga8363.txt",
+		"/Users/oem/code/React/sls_tutorial/sls41_github_remote/readme.txt",
+		"/Users/oem/code/React/sls_tutorial/sls43_trailer_bonus/slswebsite/README.md",
+		"/Users/oem/code/React/sls_tutorial/sls42_activation/slswebsite/README.md",
+		"/Users/oem/code/React/sls_tutorial/sls41_github_remote/slswebsite/README.md",
+		"/Users/oem/code/React/sls_tutorial/sls40_final_polish/slswebsite/README.md",
+		"/Users/oem/code/React/sls_tutorial/sls39_heroku_pipeline/readme.txt",
+		"/Users/oem/code/React/sls_tutorial/sls42_activation/slswebsite/public/index.html",
+		"/Users/oem/code/React/sls_tutorial/sls42_activation/slswebsite/src/components/article_router.js",
+		"/Users/oem/code/React/sls_tutorial/sls42_activation/slswebsite/src/configs/site_config_fr.json",
+		"/Users/oem/code/React/sls_tutorial/sls32_wordpress_internationalization/readme.txt",
+		"/Users/oem/code/React/sls_tutorial/sls31_wordpress_api_blog/readme.txt",
+		"/Users/oem/code/React/sls_tutorial/sls42_activation/slswebsite/src/containers/blog_categories.js",
+		"/Users/oem/code/React/sls_tutorial/sls31_wordpress_api_blog/slswebsite/src/containers/blog_categories.js",
+		"/Users/oem/code/React/sls_tutorial/sls42_activation/slswebsite/src/index.css",
+		"/Users/oem/code/React/sls_tutorial/sls42_activation/slswebsite/src/components/blog_category.js",
+		"/Users/oem/code/React/sls_tutorial/sls41_github_remote/slswebsite/src/containers/blog_categories.js",
+		"/Users/oem/code/React/sls_tutorial/sls32_wordpress_internationalization/slswebsite/src/containers/blog_categories.js",
+		"/Users/oem/code/React/sls_tutorial/sls31_wordpress_api_blog/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls32_wordpress_internationalization/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls33_react_parallax_faq/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls34_responsive_embed_you_tube/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls35_react_dom_confetti_thank_you/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls36_react_reveal_credit/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls37_amazon_s3_cloudfront/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls38_airvisual_widget/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls39_heroku_pipeline/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls40_final_polish/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls41_github_remote/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls42_activation/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls43_trailer_bonus/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls30_shopify_internationalization/readme.txt",
+		"/Users/oem/code/React/sls_tutorial/sls50_walkthrough/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls29_shopify_buy_sdk_shopping_cart_icon/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls30_shopify_internationalization/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls08_react_router/slswebsite/src/components/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls08_react_router/readme.txt",
+		"/Users/oem/code/React/sls_tutorial/sls09_bootstrap_jumbotron_well/slswebsite/src/components/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls10_react_social_icons/slswebsite/src/components/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls11_react_redux_reducers_config/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls11_react_redux_reducers_config/readme.txt",
+		"/Users/oem/code/React/sls_tutorial/sls12_bootstrap_grid/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls13_react_slick_carousel/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls14_seo_blurb/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls15_redux_actions/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls16_siteconfig_internationalization/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls16_siteconfig_internationalization/readme.txt",
+		"/Users/oem/code/React/sls_tutorial/sls17_dropdown_menu/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls18_bootstrap_form_formspree_io/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls17_dropdown_menu/readme.txt",
+		"/Users/oem/code/React/sls_tutorial/sls19_redux_promis_axios/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls21_google_maps_api/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls22_shopify_buy_sdk_product/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls23_html_react_parser/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls24_shopify_options_variants/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls25_shopify_buy_sdk_collection_single/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls26_shopify_buy_sdk_collection_multiple/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls27_shopify_buy_sdk_simple_shopping_cart/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls28_bootstrap_modal_list_group/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls20_air_quality/slswebsite/src/containers/nav_menu.js",
+		"/Users/oem/code/React/sls_tutorial/sls33_react_parallax_faq/slswebsite/src/containers/blog_categories.js",
+		"/Users/oem/code/React/sls_tutorial/sls34_responsive_embed_you_tube/slswebsite/src/containers/blog_categories.js",
+		"/Users/oem/code/React/sls_tutorial/sls35_react_dom_confetti_thank_you/slswebsite/src/containers/blog_categories.js",
+		"/Users/oem/code/React/sls_tutorial/sls36_react_reveal_credit/slswebsite/src/containers/blog_categories.js",
+		"/Users/oem/code/React/sls_tutorial/sls37_amazon_s3_cloudfront/slswebsite/src/containers/blog_categories.js",
+		"/Users/oem/code/React/sls_tutorial/sls38_airvisual_widget/slswebsite/src/containers/blog_categories.js",
+		"/Users/oem/code/React/sls_tutorial/sls39_heroku_pipeline/slswebsite/src/containers/blog_categories.js",
+		"/Users/oem/code/React/sls_tutorial/sls40_final_polish/slswebsite/src/containers/blog_categories.js",
+		"/Users/oem/code/React/sls_tutorial/sls43_trailer_bonus/slswebsite/src/containers/blog_categories.js",
+		"/Users/oem/code/React/sls_tutorial/sls50_walkthrough/slswebsite/src/containers/blog_categories.js",
+		"/Users/oem/code/React/sls_tutorial/sls16_siteconfig_internationalization/slswebsite/src/containers/footer_banners.js",
+		"/Users/oem/code/React/sls_tutorial/sls42_activation/slswebsite/src/containers/footer_banners.js",
+		"/Users/oem/code/React/sls_tutorial/sls42_activation/slswebsite/public/manifest.json",
+		"/Users/oem/code/React/sls_tutorial/sls43_trailer_bonus/slswebsite/src/containers/header_jumbotron.js",
+		"/Users/oem/code/React/sls_tutorial/sls43_trailer_bonus/slswebsite/src/configs/site_config_fr.json",
+		"/Users/oem/code/React/sls_tutorial/sls43_trailer_bonus/slswebsite/src/configs/site_config_en.json",
+		"/Users/oem/code/React/sls_tutorial/sls43_trailer_bonus/slswebsite/src/components/article_router.js",
+		"/Users/oem/code/React/sls_tutorial/sls43_trailer_bonus/slswebsite/src/reducers/index.js",
+		"/Users/oem/code/React/sls_tutorial/sls42_activation/slswebsite/src/reducers/index.js",
+		"/Users/oem/code/React/sls_tutorial/sls43_trailer_bonus/slswebsite/src/reducers/site_config_reducer.js",
+		"/Users/oem/code/React/sls_tutorial/sls43_trailer_bonus/slswebsite/src/actions/index.js",
+		"/Users/oem/code/React/sls_tutorial/sls43_trailer_bonus/slswebsite/src/index.css",
+		"/Users/oem/code/React/sls_tutorial/sls50_test50/slswebsite/src/configs/site_config_en.json",
+		"/Users/oem/code/React/sls_tutorial/sls41_github_remote/slswebsite/license.md",
+		"/Users/oem/code/React/sls_tutorial/sls34_test34/slswebsite/src/containers/articles/credits.js",
+		"/Users/oem/code/React/sls_tutorial/sls35_react_dom_confetti_thank_you/slswebsite/src/containers/articles/credits.js",
+		"/Users/oem/code/React/sls_tutorial/sls36_react_reveal_credit/slswebsite/src/containers/articles/credits.js",
+		"/Users/oem/code/React/sls_tutorial/sls37_amazon_s3_cloudfront/slswebsite/src/containers/articles/credits.js",
+		"/Users/oem/code/React/sls_tutorial/sls38_airvisual_widget/slswebsite/src/containers/articles/credits.js",
+		"/Users/oem/code/React/sls_tutorial/sls39_heroku_pipeline/slswebsite/src/containers/articles/credits.js",
+		"/Users/oem/code/React/sls_tutorial/sls40_final_polish/slswebsite/src/containers/articles/credits.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/oem/code/React/sls_tutorial/sls44_rest_v2/slswebsite/src",
+			"/Users/oem/code/React/sls_tutorial/sls50_rest_v2/slswebsite/src",
+			"/Users/oem/code/React/sls_tutorial/sls42_activation/slswebsite/src",
+			"/Users/oem/code/React/sls_tutorial/",
+			"/Users/oem/code/React/sls_tutorial/sls40_slstest40/slswebsite/src",
+			"/Users/oem/code/React/sls_tutorial/sls36_react_reveal_credit/slswebsite/src",
+			"/Users/oem/code/React/sls_tutorial/sls35_react_dom_confetti/slswebsite/src",
+			"/Users/oem/code/React/sls_tutorial/sls34_responsive_embed_you_tube/slswebsite/src",
+			"/Users/oem/code/React/sls_tutorial/sls31_wordpress_api_blog/slswebsite/src",
+			"/Users/oem/code/React/sls_tutorial/sls29_shopify_buy_sdk_shopping_cart_icon/slswebsite/src",
+			"/Users/oem/code/React/sls_tutorial/sls29_shopify_buy_sdk_shopping_cart_iconslswebsite/src",
+			"/Users/oem/code/React/sls_tutorial/sls28_bootstrap_modal/slswebsite/src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"link",
+			"blurb",
+			"credits",
+			"faq",
+			"mark_James",
+			"console",
+			"sls50_rest_v2",
+			"console",
+			"blog",
+			"post",
+			"blog",
+			"console",
+			"blog",
+			"console.log",
+			"blog",
+			"domain",
+			"menu",
+			"faq",
+			"constructor",
+			"NavMenu",
+			"nav-menu",
+			"categor",
+			"NavMenu",
+			"1000",
+			"sweetlightstudios.com",
+			"console.log",
+			"sweetlightstudios.herokuapp.com",
+			"responsive",
+			"credits",
+			"roll",
+			"heroku",
+			"http:",
+			"credits",
+			"menu",
+			"footer",
+			"menu",
+			"footer",
+			"faq",
+			"jumbotron",
+			"photoGrid",
+			"carousel",
+			"header",
+			"loved-ones",
+			"home",
+			"header",
+			"faq",
+			"menu",
+			"language",
+			"faq",
+			"cont",
+			"grid",
+			"fave",
+			"static",
+			"credits",
+			"http:",
+			"categories",
+			"console",
+			"http:",
+			"http",
+			"reducer",
+			"PropTypes",
+			"typeof",
+			"type",
+			"\"_self\"",
+			"console",
+			"checkout",
+			"confetti",
+			"Image",
+			"Button",
+			"coverd",
+			"youtub",
+			"intal",
+			"skelton",
+			"automaticall",
+			"skeli",
+			"className",
+			"Parser",
+			"Link",
+			"Image",
+			".map",
+			"blurb",
+			"cons",
+			"credits",
+			"Image",
+			"this.state.css",
+			"package",
+			".jpg",
+			"blogcategories",
+			"h1",
+			"blogcate",
+			"blog",
+			"self-hosted",
+			"LinkContainer",
+			"console",
+			"LinkContainer",
+			"ListGroupItem",
+			"self-hosted",
+			"...",
+			"Product",
+			"blog",
+			"blurb",
+			"simple_shopping_cart",
+			"custom",
+			"collection+cart",
+			"threeColumnProducts",
+			"index",
+			"three",
+			"option",
+			"options",
+			"className",
+			"class=",
+			".map",
+			"console.log",
+			"map",
+			"cart-total",
+			"total",
+			"price",
+			"checkout-button",
+			"checkout",
+			"please",
+			"super",
+			"constructor",
+			"super(props);",
+			"pricingCollection",
+			"this.props.cart",
+			"cart",
+			"threeColumnProduct",
+			"blurb"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"500",
+			"sweetlightstudios.com",
+			"showCart",
+			"\"link\":",
+			"\"title\":",
+			"\"type\":",
+			"\"eventKey\":",
+			"\"",
+			"\"copy\":",
+			"\"headline\":",
+			"firstVariant",
+			"secondVariant",
+			"secondVariantIndex",
+			"firstVariantIndex",
+			"first-variant-container",
+			"_",
+			"`",
+			"branding",
+			"\"eventKey\"",
+			"loved_ones",
+			"HeaderJumbotron",
+			"nav_menu",
+			"NavMenu",
+			"className=",
+			"'",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/oem/code/React/sls_tutorial"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/nada.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 326.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

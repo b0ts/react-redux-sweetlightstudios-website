@@ -1,0 +1,1164 @@
+{ 
+  "imageCDN": "https://dbeg14ta4byob.cloudfront.net",
+  "header": {
+    "logoBaseImage" : "/img/logo/sweet_light_studios_logo_000.png",
+    "logoImageCount": 8,
+    "home": {
+      "bannerText": "Offre Spéciale !",
+      "bannerLink": "/pricing/special-offers/?collection=465320904"
+    },
+    "loved-ones": {
+      "bannerText": "Si votre famille est de visiter, réserver une séance de famille maintenant !",
+      "bannerLink": "/pricing/loved-ones/?collection=465329928"
+    },
+    "branding": {
+      "bannerText": "Commandez votre Personal Branding Headshot dès aujourd'hui !", 
+      "bannerLink": "/pricing/branding/?collection=465323848"
+    },
+    "makeovers": {
+      "bannerText": "Laissez-nous chercher votre beauté intérieure et la capturer pour l'éternité !", 
+      "bannerLink": "/pricing/makeovers/?collection=465326856"
+    },
+    "commercial": {
+      "bannerText": "Obtenir une soumission en ligne sur combien il en coûtera pour photographier vos produits !", 
+      "bannerLink": "/pricing/commercial-online/?collection=465341832"
+    },
+    "pricing": {
+      "bannerText": "Consultez notre offre spéciale!",
+      "bannerLink": "/pricing/special-offers/?collection=465320904"
+    },
+    "commercial-studio": {
+      "bannerText": "Si vous avez besoin de quelque chose de spécial - Vous avez mais à demander!",
+      "bannerLink": "/pricing/custom/"
+    },
+    "commercial-on-location": {
+      "bannerText": "If you need something special - request a custom quote!",
+      "bannerLink": "/pricing/custom/"
+    },
+    "commercial-online": {
+      "bannerText": "If you need something special - request a custom quote!",
+      "bannerLink": "/pricing/custom/"
+    },
+    "blog": {
+      "bannerText": "Legacy Images are our speciality!",
+      "bannerLink": "/pricing/loved-ones/?collection=465329928"
+    },
+    "blog_post": {
+      "bannerText": "Legacy Images are our speciality!",
+      "bannerLink": "/pricing/loved-ones/?collection=465329928"
+    },    
+    "frequently-asked-questions" : {
+      "bannerText": "Le faire - Faites-le maintenant !",
+      "bannerLink": "/pricing/special-offers/?collection=465320904"
+    },
+    "contact": {
+      "bannerText": "Nous contacter En passant une commande maintenant!", 
+      "bannerLink": "/pricing/special-offers/?collection=465320904"
+    },
+    "credits": {
+      "bannerText": "Ce Website se trouve sur les épaules de géants!",
+      "bannerLink": "/pricing/special-offers/?collection=465320904"
+    },
+    "thank-you": {
+      "bannerText": "Merci, merci, merci beaucoup!",
+      "bannerLink": "/pricing/special-offers/?collection=465320904"
+    }
+  },
+
+ "menuElements": {
+    "brand": { 
+      "eventKey": "1", 
+      "altText": "Menu Thumbnail", 
+      "imageSource": "/img/menu_thumbnail.jpg", 
+      "link": "/" },
+    "items": [
+      { "eventKey": "2", "type": "navItem", "title": "Accueil", "link": "/home/" },
+      { "eventKey": "3", "type": "navItem", "title": "Proches", "link": "/loved-ones/" },
+      { "eventKey": "4", "type": "navItem", "title": "Stigmatiser", "link": "/branding/" },
+      { "eventKey": "5", "type": "navItem", "title": "Métamorphoses", "link": "/makeovers/" },
+      { "eventKey": "6", "type": "navItem", "title": "Commercial", "link": "/commercial/" },
+      { "eventKey": "7", "type": "navItem", "title": "Blog", "link": "/blog/page/1/" },
+      { "eventKey": "8", "type": "submenu", "title": "Prix", "submenu": "pricingSubmenu"},
+      { "eventKey": "9", "type": "submenu", "title": "Info", "submenu": "infoSubmenu" },
+      { "eventKey": "10", "type": "navItem", "title": "Contact", "link": "/contact/" }
+    ],
+    "pricingSubmenu": [
+      { "eventKey": "8.1", "type": "menuItem", "title": "Offres Spéciales", "link": "/pricing/special-offers/?collection=465320904" },
+      { "eventKey": "8.2", "type": "menuItem", "title": "Proches des prix", "link": "/pricing/loved-ones/?collection=465329928" },
+      { "eventKey": "8.3", "type": "menuItem", "title": "Prix de marque", "link": "/pricing/branding/?collection=465323848" },
+      { "eventKey": "8.4", "type": "menuItem", "title": "Le changement d'établissement des prix", "link":  "/pricing/makeovers/?collection=465326856"},
+      { "eventKey": "8.5", "type": "menuItem", "title": "Commercial Studio Tarif", "link": "/pricing/commercial-studio/?collection=465333704" },
+      { "eventKey": "8.6", "type": "menuItem", "title": "Commercial sur la tarification Emplacement", "link": "/pricing/commercial-on-location/?collection=465336904"},
+      { "eventKey": "8.7", "type": "menuItem", "title": "Commercial de tarifs en ligne", "link": "/pricing/commercial-online/?collection=465341832"},
+      { "eventKey": "8.8", "type": "menuItem", "title": "prix personnalisée", "link": "/pricing/custom/?invoice=10404932296" }
+    ],
+    "infoSubmenu": [
+      { "eventKey": "9.1", "type": "menuItem", "title": "FAQ", "link": "/faq/" },
+      
+      { "eventKey": "9.2", "type": "menuItem", "title": "Crédits", "link": "/credits/" },
+      { "eventKey": "9.3", "type": "menuItem", "title": "Merci", "link": "/thank-you/" }
+    ]
+  },
+
+  "footer": {
+    "socialText": "Connect: ",
+    "languageText": " La langue: ",
+    "socialLinks": [
+      {"socialKey": "1", "url": "https://www.facebook.com/SweetLightStudios/"},
+      {"socialKey": "2", "url": "https://twitter.com/@sweetstudios/"},
+      {"socialKey": "3", "url": "https://www.instagram.com/insweetlight/"},
+      {"socialKey": "4", "url": "https://www.pinterest.com/sweetlightstudios/"},
+      {"socialKey": "5", "url": "https://www.linkedin.com/company/sweet-light-studios"},
+      {"socialKey": "6", "url": "https://plus.google.com/u/0/101457135285679881062"},
+      {"socialKey": "7", "url": "https://www.youtube.com/channel/UCQch56Y8oOgsw7aqL2bfRqQ/"},
+      {"socialKey": "8", "url": "https://www.yelp.com/biz/sweet-light-studios-south-san-francisco"}    
+    ],
+    "emailImage": "/img/email-envelope.svg",
+    "emailAlt": "Email info@sweetlightstudios.com",
+    "emailURL": "mailto:info@sweetlightstudios.com?subject=InfoRequest",
+    "englishImage": "/img/icons8-USA-48.png",
+    "englishAlt": "English",
+    "frenchImage": "/img/icons8-France-48.png",
+    "frenchAlt": "Le Français",
+    "notificationText": "\u24D2 Copyright 2017 par SweetLightStudios - Tous droits réservés - Ne pas utiliser les images sans autorisation !",
+    "notificationLink": "/credits/"
+  },
+
+  "blurbs": {
+    "home": {
+      "headline":"Sweet Light Studios est un studio de photographie à service complet situé dans le sud de San Francisco, Californie desservant la région de la baie de SF. Nous sommes dédiés à la création de photos remarquables pour des gens incroyables !",
+      "copy": [
+        "Nous offrons des séances de photographie style studio à notre emplacement ou le vôtre,",
+        "radiant gallery prints et folio forfaits.",
+        "spécialisée dans les portraits de famille Héritage d'êtres chers, de marque personnelle, Headshots",
+        "Portraits d'entreprise, Photographie, séances de relooking glamour",
+        "Commercial Photographie de produits alimentaires et de la photographie.",
+        "Voyez-vous dans une nouvelle lumière, dans une douce lumière, aujourd'hui !"
+      ]
+    },
+    "loved-ones": {
+      "headline": "Il n'y a rien de plus précieux que des photos de votre famille et proches.",
+      "copy": [
+        "Nous photographie Portraits d'héritage de la famille et des proches, d'avoir et de tenir, pour toujours.",
+        "Nous croyons que toutes les familles devraient exister en photos !",
+        "Jalons de la famille comme l'engagement et des portraits, Maternité et Bébé Nouveau-souvenirs",
+        "sont notre spécialité, en plus des portraits annuels pour les vacances."
+      ]
+    },
+    "branding": {
+      "headline": "Il n'y a rien de plus important que de faire une bonne première impression.",
+      "copy":[
+        "veulent faire un grand impact en ligne ? Les demandeurs d'emploi et chefs d'amour notre siège-shot sessions.",
+        "besoin d'une nouvelle série d'images pour renforcer votre marque personnelle bibliothèque ?",
+        "Jet votre exposition avec nos portraits d'entreprise affaires studio unique et l'image de marque de séances !"
+      ]
+    },
+    "makeovers": {
+      "headline": "Il n'y a rien de plus d'un changement de vie qu'une séance de photographie relooking.",
+      "copy": [
+        "Pour être sûr que vous regardez et vous sentir à votre meilleur pour votre session de portrait !",
+        "Apporter votre meilleure amie, mère, soeur ou amant pour partager leur expérience et d'en faire une journée de filles !.",
+        "appréhension ? Appareil-photo timide ? Pas de soucis, laissez-nous vous aider à voir dans une nouvelle lumière en toute confiance !",
+        "Notre maquillage professionnel artistes se choyer et glam vous en faire ressortir votre confiance intérieure,",
+        "et nos photographes vous coachera avec amour pour faire ressortir la beauté inhérente naturellement !"
+      ]
+    },
+    "commercial": {
+      "headline": "Rien n'est plus important à la vente en ligne de belles photos de vos produits",
+      "copy": [
+        "Nous offrons nettes, photographie de produits services liés à votre produit dans la meilleure lumière.",
+        "l'alimentation de la photographie et de la photographie du produit dans notre studio ou à votre domicile."
+      ]
+    },
+    "pricing": {
+      "headline": "Nous offrons différents prix et offres spéciales",
+      "copy": [
+        "Compair notre qualité et prix avec n'importe qui !"
+      ] 
+    },
+   "commercial-studio": {
+      "headline": "Rien n'est plus important à la vente en ligne de belles photos de vos produits",
+      "copy":  [
+        "Nous offrons nettes, photographie de produits services liés à votre produit dans la meilleure lumière.",
+        "l'alimentation de la photographie et de la photographie du produit dans notre studio sont notre spécialité.",
+        "Nous sommes l'un des rares studios qui peuvent faire apparaître clairement et à l'image produits bien paraître.",
+        " ",
+        "Choix de luminosité *: ",
+        "-- Matte (vos produits ne sont pas brillant ou réfléchissant)",
+        "-- Réfléchissant(vos produits sont brillantes et refléter le monde autour)",
+        "-- Transparent ou blanc (vos produits sont clairs et voir à travers ou tous / surtout blanc)",
+        " ",
+        "Choix de retouche *:",
+        "-- Aucun - Aucune retouche, tout droit sortie d'images l'appareil photo",
+        "-- Niveau - Spots Scratches & Fingermarks removed.",  
+        "-- Supprimer l'arrière-plan - On dirait que c'est produit flottant sur un fond clair.",
+        "-- Ajouter une ombre portée - Retirer l'arrière-plan pour un fond blanc, pur avec une ombre portée où la parole.",
+        "-- Custom - Modification des couleurs de l'étiquette la réparation des coutures brisées plaquettes etc.",
+         "",
+        "Styling *:",
+        "Styling est la préparation et placer l'élément dans l'espace d'être photographié.",
+        "Lorsque les modèles sont impliqués d'autres stylistes et posant sont parfois impliqués,",
+        "Conduisant à l'utilisation des temps en studio."
+      ]
+    },
+   "commercial-on-location": {
+      "headline": "Rien n'est plus important à la vente en ligne de belles photos de vos produits",
+      "copy":  [
+        "Nous offrons nettes, photographie de produits services liés à votre produit dans la meilleure lumière.",
+        "Nous sommes prêts à parcourir jusqu'à 25 miles de notre studio pour faire le travail. emplacement commercial",
+        "Nous mettrons en place notre studio portable à Votre site et une photo de vos produits ou de la nourriture.",
+        " ",
+        "Choix de luminosité *: ",
+        "-- Matte (vos produits ne sont pas brillant ou réfléchissant)",
+        "-- Réfléchissant(vos produits sont brillantes et refléter le monde autour)",
+        "-- Transparent ou blanc (vos produits sont clairs et voir à travers ou tous / surtout blanc)",
+        " ",
+        "Choix de retouche *:",
+        "-- Aucun - Aucune retouche, tout droit sortie d'images l'appareil photo",
+        "-- Niveau - Spots Scratches & Fingermarks removed.",  
+        "-- Supprimer l'arrière-plan - On dirait que c'est produit flottant sur un fond clair.",
+        "-- Ajouter une ombre portée - Retirer l'arrière-plan pour un fond blanc, pur avec une ombre portée où la parole.",
+        "-- Custom - Modification des couleurs de l'étiquette la réparation des coutures brisées plaquettes etc.",
+        "",
+        "Styling *:",
+        "Styling est la préparation et placer l'élément dans l'espace d'être photographié.",
+        "Lorsque les modèles sont impliqués d'autres stylistes et posant sont parfois impliqués,",
+        "Conduisant à l'utilisation des temps en studio."
+      ]
+    },
+   "commercial-online": {
+      "headline": "Rien n'est plus important à la vente en ligne de belles photos de vos produits",
+      "copy":  [
+        "Nous offrons nettes, photographie de produits services liés à votre produit dans la meilleure lumière.",
+        "avec des services en ligne, vous remplissez un simple formulaire ci-dessus, nous expédier vos produits,",
+        "nous les photographier et de vous envoyer les images électroniquement.",
+        "Si vous incluez une étiquette de retour prépayée, nous vous enverrons vos produits retour.",
+        "c'est aussi simple que cela !",
+        "Pas d'attente pour obtenir un prix en ligne, il vous suffit de sélectionner vos options ci-dessus.",
+        "il est très facile de voir instantanément ce que votre évaluation sera avec d'autres options.",
+         " ",
+        "Choix de luminosité *: ",
+        "-- Matte (vos produits ne sont pas brillant ou réfléchissant)",
+        "-- Réfléchissant(vos produits sont brillantes et refléter le monde autour)",
+        "-- Transparent ou blanc (vos produits sont clairs et voir à travers ou tous / surtout blanc)",
+        " ",
+        "Choix de retouche *:",
+        "-- Aucun - Aucune retouche, tout droit sortie d'images l'appareil photo",
+        "-- Niveau - Spots Scratches & Fingermarks removed.",  
+        "-- Supprimer l'arrière-plan - On dirait que c'est produit flottant sur un fond clair.",
+        "-- Ajouter une ombre portée - Retirer l'arrière-plan pour un fond blanc, pur avec une ombre portée où la parole.",
+        "-- Custom - Modification des couleurs de l'étiquette la réparation des coutures brisées plaquettes etc."
+      ]
+    },
+    "contact": {
+      "headline": "Page de Contact pour douce lumière Studios",
+      "copy": [
+        "Nous envoyer un message, consultez une carte. Contactez-nous."
+      ]
+    }
+  },
+
+  "carousel": {
+    "settings": {
+      "rows": 1,
+      "variableWidth": true,
+      "slidesToScroll": 1,
+      "infinite": true,
+      "dots": true,
+      "initialSlide": 0,
+      "draggable": true,
+      "focusOnSelect": true,
+      "swipe": true,
+      "swipeToSlide": true,
+      "touchMove": true,
+      "touchThreshold": 80,
+      "autoplay": true,
+      "autoplaySpeed": 3000,
+      "waitForAnimate": true,
+      "pauseOnHover": true
+    },
+     "loved-ones": [
+      { "eventKey": "1", 
+        "image": "/img/loved_ones/loved_ones_family_portraits.jpg",
+        "altText": "Studio Portrait de famille ... Il n'y a rien de plus important que les photos de vos êtres chers !"
+      },
+      { "eventKey": "2", 
+        "image": "/img/loved_ones/101_Sweet_Light_Studios_Professional_Studio_Photography_Family_Portraiture_South_San_Francisco_CA.jpg",
+        "altText": "La Mère et fille sur le mur de fleurs proches _ La Photographie de Studio Portrait de famille hérités du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "3", 
+        "image": "/img/loved_ones/102_Sweet_Light_Studios_Professional_Studio_Photography_Family_Portraiture_South_San_Francisco_CA.jpg",
+        "altText":  "mari et femme proches de la photographie de studio professionnel _ Portraits de Famille du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "4", 
+        "image": "/img/loved_ones/103_Sweet_Light_Studios_Professional_Studio_Photography_Family_Portraiture_South_San_Francisco_CA.jpg",
+        "altText": "Maternité proches de la photographie de studio professionnel _ Heirloom Family portrait du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "5", 
+        "image": "/img/loved_ones/104_Sweet_Light_Studios_Professional_Studio_Photography_Family_Portraiture_South_San_Francisco_CA.jpg",
+        "altText": "nouveau bébé proches de la photographie de studio professionnel _ Legacy Family Portrait du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "6", 
+        "image": "/img/loved_ones/105_Sweet_Light_Studios_Professional_Studio_Photography_Family_Portraiture_South_San_Francisco_CA.jpg",
+        "altText": "Forever Young couple dansant proches de la photographie de studio professionnel _ au portrait célébration douce lumière Studios South San Francisco CA"
+      },
+      { "eventKey": "7", 
+        "image": "/img/loved_ones/106_Sweet_Light_Studios_Professional_Studio_Photography_Family_Portraiture_South_San_Francisco_CA.jpg",
+        "altText": "Meilleurs amis proches la photographie de studio professionnel _ Portraits de Famille du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "8", 
+        "image": "/img/loved_ones/107_Sweet_Light_Studios_Professional_Studio_Photography_Family_Portraiture_South_San_Francisco_CA.jpg",
+        "altText": "Maman avec ses meilleurs garçons proches de la photographie de studio professionnel _ Heirloom Family portrait du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "9", 
+        "image": "/img/loved_ones/108_Sweet_Light_Studios_Professional_Studio_Photography_Family_Portraiture_South_San_Francisco_CA.jpg",
+        "altText": "La mère et fils proches de la photographie de studio professionnel à l'art du portrait de famille - Douce lumière Studios South San Francisco CA"
+      },
+      { "eventKey": "10", 
+        "image": "/img/loved_ones/109_Sweet_Light_Studios_Professional_Studio_Photography_Family_Portraiture_South_San_Francisco_CA.jpg",
+        "altText": "l'engagement des couples proches de la photographie de studio professionnel jalon _ L'art du portrait du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "11", 
+        "image": "/img/loved_ones/110_Sweet_Light_Studios_Professional_Studio_Photography_Family_Portraiture_South_San_Francisco_CA.jpg",
+        "altText": "Treasured Mother Daughter Loved Ones Professional Studio Photography _ Heirloom Family Portraits at Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "12", 
+        "image": "/img/loved_ones/111_Sweet_Light_Studios_Professional_Studio_Photography_Family_Portraiture_South_San_Francisco_CA.jpg",
+        "altText": "Mère Fille précieux proches de la photographie de studio professionnel _ Heirloom Portraits de Famille du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "13", 
+        "image": "/img/loved_ones/112_Sweet_Light_Studios_Professional_Studio_Photography_Family_Portraiture_South_San_Francisco_CA.jpg",
+        "altText": "Nouvelle Mère, Mère et du bébé proches de la photographie de studio professionnel _ Heirloom Family portrait du Sweet Light Studios South San Francisco CA"
+      }
+    ],
+     "branding": [
+      { "eventKey": "1", 
+        "image": "/img/branding/personal_branding_headshot_portraits.jpg",
+        "altText": "Personal Branding Business Portrait ... Il n'y a rien de plus important que de faire une bonne première impression!"
+      },
+      { "eventKey": "2", 
+        "image": "/img/branding/113_Sweet_Light_Studios_Personal_Branding_Headshots_South_San_Francisco_CA.jpg",
+        "altText": "Heureux High-key Headshots Portraits d'affaires Portraits clés par Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "3", 
+        "image": "/img/branding/114_Sweet_Light_Studios_Personal_Branding_Headshots_South_San_Francisco_CA.jpg",
+        "altText": "Entreprises High-Key Business Headshots Portrait par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "4", 
+        "image": "/img/branding/115_Sweet_Light_Studios_Personal_Branding_Headshots_South_San_Francisco_CA.jpg",
+        "altText": "Personal Branding: Sommelier, Portraits d'affaires par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "5", 
+        "image": "/img/branding/116_Sweet_Light_Studios_Personal_Branding_Headshots_South_San_Francisco_CA.jpg",
+        "altText": "Personal Branding: Styliste, Organisateur, Penderie métier d'éditeur l'art du portrait par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "6", 
+        "image": "/img/branding/117_Sweet_Light_Studios_Personal_Branding_Headshots_South_San_Francisco_CA.jpg",
+        "altText": "Personal Branding: Chef Personnel Portraits d'affaires par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "7", 
+        "image": "/img/branding/118_Sweet_Light_Studios_Personal_Branding_Headshots_South_San_Francisco_CA.jpg",
+        "altText": "Personal Branding: Restaurant Chef Expert culinaire Portraits d'affaires par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "8", 
+        "image": "/img/branding/119_Sweet_Light_Studios_Personal_Branding_Headshots_South_San_Francisco_CA.jpg",
+        "altText": "Un élégant Portrait de groupe, organisation de bienfaisance sans but lucratif de l'art du portrait d'affaires par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "9", 
+        "image": "/img/branding/120_Sweet_Light_Studios_Personal_Branding_Headshots_South_San_Francisco_CA.jpg",
+        "altText": "Les professionnels médicaux Médecins Dentiste  Portraits d'affaires par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "10", 
+        "image": "/img/branding/121_Sweet_Light_Studios_Personal_Branding_Headshots_South_San_Francisco_CA.jpg",
+        "altText": "Photos de groupe, les employés, les modèles pour la publicité  Portrait d'affaires par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "11", 
+        "image": "/img/branding/122_Sweet_Light_Studios_Personal_Branding_Headshots_South_San_Francisco_CA.jpg",
+        "altText": "LinkedIn Personal Branding Headshot occasionnels  Portrait d'affaires par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "12", 
+        "image": "/img/branding/123_Sweet_Light_Studios_Personal_Branding_Headshots_South_San_Francisco_CA.jpg",
+        "altText": "Business Professional Portrait officiel  Portrait d'affaires par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "13", 
+        "image": "/img/branding/124_Sweet_Light_Studios_Personal_Branding_Headshots_South_San_Francisco_CA.jpg",
+        "altText": "Image de marque publicité Fundraiser   Portrait d'affaires par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "14", 
+        "image": "/img/branding/125_Sweet_Light_Studios_Personal_Branding_Headshots_South_San_Francisco_CA.jpg",
+        "altText": "Personal Branding : Le Président Éducateur, Maquilleur  Portrait d'affaires par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "15", 
+        "image": "/img/branding/126_Sweet_Light_Studios_Personal_Branding_Headshots_South_San_Francisco_CA.jpg",
+        "altText": "Personal Branding: Salon de Beauté  Portrait d'affaires par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "16", 
+        "image": "/img/branding/127_Sweet_Light_Studios_Personal_Branding_Headshots_South_San_Francisco_CA.jpg",
+        "altText": "Rapport annuel Portraits _ Portrait d'affaires par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "17", 
+        "image": "/img/branding/128_Sweet_Light_Studios_Personal_Branding_Headshots_South_San_Francisco_CA.jpg",
+        "altText": "Creative Personal Branding : Montrer Carte d'affaires unique _ Portrait d'affaires par Sweet Light Studios South San Francisco, CA"
+      }
+    ],
+    "makeovers":[
+      { "eventKey": "1", 
+        "image": "/img/makeovers/make_over_transformational_beauty_portraits.jpg",
+        "altText": "L'art du portrait beauté transformation ... Il n'y a rien de plus qu'un changement de vie coiffure maquillage Séance de photographie !"
+      },
+      { "eventKey": "2", 
+        "image": "/img/makeovers/128_Sweet_Light_Studios_Professional_Makeover_Studio_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Close Up Studio Glamour Photography  L'art du portrait beauté transformationnelle du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "3", 
+        "image": "/img/makeovers/129_Sweet_Light_Studios_Professional_Makeover_Studio_Photography_South_San_Francisco_CA.jpg",
+        "altText": "La photographie de studio relooking élégant _ L'art du portrait beauté transformationnelle du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "4", 
+        "image": "/img/makeovers/130_Sweet_Light_Studios_Professional_Makeover_Studio_Photography_South_San_Francisco_CA.jpg",
+        "altText": "La coiffure et maquillage pour les femmes d'affaires et cadres  L'art du portrait beauté transformationnelle du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "5", 
+        "image": "/img/makeovers/131_Sweet_Light_Studios_Professional_Makeover_Studio_Photography_South_San_Francisco_CA.jpg",
+        "altText": "La danse nuptiale de robe Photos spectaculaire  L'art du portrait beauté transformationnelle du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "6", 
+        "image": "/img/makeovers/132_Sweet_Light_Studios_Professional_Makeover_Studio_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Jour de luxe pour maman!  L'art du portrait beauté transformationnelle du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "7", 
+        "image": "/img/makeovers/133_Sweet_Light_Studios_Professional_Makeover_Studio_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Meilleurs amis Day Out  L'art du portrait beauté transformationnelle du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "8", 
+        "image": "/img/makeovers/134_Sweet_Light_Studios_Professional_Makeover_Studio_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Styling maquillage jour Photographie de Studio  L'art du portrait beauté transformationnelle du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "9", 
+        "image": "/img/makeovers/135_Sweet_Light_Studios_Professional_Makeover_Studio_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Mère et fille Styling maquillage jour Photographie de Studio  L'art du portrait beauté transformationnelle du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "10", 
+        "image": "/img/makeovers/136_Sweet_Light_Studios_Professional_Makeover_Studio_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Styling maquillage jour Photographie de Studio Juste pour moi  L'art du portrait beauté transformationnelle du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "11", 
+        "image": "/img/makeovers/137_Sweet_Light_Studios_Professional_Makeover_Studio_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Maquillage élégant Styling Studio  L'art du portrait beauté transformationnelle du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "12", 
+        "image": "/img/makeovers/138_Sweet_Light_Studios_Professional_Makeover_Studio_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Suite Nuptiale Maquillage Styling Studio Photographie Portrait  L'art du portrait beauté transformationnelle du Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "13", 
+        "image": "/img/makeovers/139_Sweet_Light_Studios_Professional_Makeover_Studio_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Maquillage glamour Styling Studio _ L'art du portrait beauté transformationnelle du Sweet Light Studios South San Francisco CA"
+      }
+    ],
+     "commercial": [
+      { "eventKey": "1", 
+        "image": "/img/commercial/commercial_product_photography.jpg",
+        "altText": "Produit commercial & la photographie culinaire pour la publicité ... Il n'y a rien de plus important pour les ventes de photos superbes de vos produits!"
+      },
+      { "eventKey": "2", 
+        "image": "/img/commercial/140_Sweet_Light_Studios_Product_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Cas de téléphone avec modèle, Brochure publicitaire  Modèles avec photographie de produits par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "3", 
+        "image": "/img/commercial/141_Sweet_Light_Studios_Product_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Produit avec emballage   Photographie de produits de table par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "4", 
+        "image": "/img/commercial/142_Sweet_Light_Studios_Food_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Adorable Garçon avec tart _ La photographie alimentaire publicité par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "5", 
+        "image": "/img/commercial/143_Sweet_Light_Studios_Food_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Cookies rose givré avec garniture  La photographie alimentaire Tableau Studio par Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "6", 
+        "image": "/img/commercial/144_Sweet_Light_Studios_Product_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Clair, Blanc, translucide et Noir Collection Jar Collection  Photographie de produits par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "7", 
+        "image": "/img/commercial/145_Sweet_Light_Studios_Product_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Produits de beauté et crèmes de beauté  Studio de table Photographie de produits par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "8", 
+        "image": "/img/commercial/146_Sweet_Light_Studios_Food_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Salade de Macaroni Pâtes Mardi Gras avec des ingrédients et des accessoires  La photographie alimentaire Tableau Studio par Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "9", 
+        "image": "/img/commercial/147_Sweet_Light_Studios_Food_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Verre de vin, des bouteilles de vin _ Studio Photographie de produits par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "10", 
+        "image": "/img/commercial/148_Sweet_Light_Studios_Product_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Compacts Cosmétiques, Maquillage, sacs et accessoires   Photographie de produits par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "11", 
+        "image": "/img/commercial/149_Sweet_Light_Studios_Food_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Cupcakes avec coeur arrose vermicelles  La photographie culinaire par Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "12", 
+        "image": "/img/commercial/150_Sweet_Light_Studios_Food_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Salade grecque  La photographie culinaire et Styling par Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "13", 
+        "image": "/img/commercial/151_Sweet_Light_Studios_Food_Photography_South_San_Francisco_CA.jpg",
+        "altText": "L'affichage publicitaire Boîte Bento  La photographie alimentaire emplacement par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "14", 
+        "image": "/img/commercial/152_Sweet_Light_Studios_Product_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Perfect in the healthy yogurt with chia seeds and packaging  Styling Set produit alimentaire, et la photographie par Sweet Light Studios South San Francisco CA"
+      },
+      { "eventKey": "15", 
+        "image": "/img/commercial/153_Sweet_Light_Studios_Product_Photography_South_San_Francisco_CA.jpg",
+        "altText": "Pots en plastique, couvercles et contenants annonce  Photographie de produits de table par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "16", 
+        "image": "/img/commercial/154_Sweet_Light_Studios_Product_Photography_South_San_Francisco_CA.jpg",
+        "altText": "SF Bay Area M Magazine Beauté Editorial  Photographie de produits par Sweet Light Studios South San Francisco, CA"
+      },
+      { "eventKey": "17", 
+        "image": "/img/commercial/155_Sweet_Light_Studios_Product_Photography_South_San_Francisco_CA.jpg",
+        "altText": "SF Bay Area M Magazine Back to School Editorial   Photographie de produits par Sweet Light Studios South San Francisco, CA"
+      }
+    ]
+  },
+
+  "photoGrid": {
+    "home":[
+      { "eventKey": "1", 
+        "title": "Proches", 
+        "link": "/loved-ones/",  
+        "image": "/img/home/Sweet_Light_Studios_Family_Portraiture.jpg",
+        "altText": "Proches Portrait de famille par exemple"
+      },
+      { "eventKey": "2", 
+        "title": "Stigmatiser", 
+        "link": "/branding/",
+        "image": "/img/home/Sweet_Light_Studios_Personal_Branding_Headshots.jpg",
+        "altText": "Personal Branding Exemple Headshot"
+      },
+      { "eventKey": "3", 
+        "title": "Métamorphoses", 
+        "link": "/makeovers/",
+        "image": "/img/home/Sweet_Light_Studios_Makeover_Beauty_Portraiture.jpg",
+        "altText": "Makeover Exemple Headshot"
+      },
+      { "eventKey": "4", 
+        "title": "Commercial", 
+        "link": "/commercial/",
+        "image": "/img/home/Sweet_Light_Studios_Commercial_Product_Food_Photography.jpg",
+        "altText": "Produit commercial par exemple"
+      }
+    ]
+  },
+
+  "contactForm": {
+    "emailTitle": "Adresse courriel",
+    "emailText": "Veuillez entrer votre e-mail",
+    "nameTitle": "Nom",
+    "nameText": "Veuillez entrer votre nom",
+    "typeTitle": "Type de la photographie",
+    "typeRadio": [
+      "proches (famille)",
+      "Personal Branding (headshots)",
+      "Makeover",
+      "Commercial"
+    ],
+    "phoneTitle": "Numéro de téléphone",
+    "phoneText": "Veuillez entrer votre chiffres",
+    "additionalTitle": "Plus d'informations, par exemple des images, etc.",
+    "additionalText": "Nous donner un indice, pour que nous puissions vous aider ;-)",
+    "submitButtonText": "Soumettre"
+  },
+
+  "airQuality": {
+    "title": "San Francisco la pollution de l'air extérieur",
+    "labelText": "Indice de qualité de l'air : ",
+    "goodText": "Bon",
+    "moderateText": "Moyenne",
+    "usgText": "USG",
+    "unhealthyText": "Malsain",
+    "veryText": "Très Unhealty",
+    "hazardousText": "Dangereux"
+  },
+
+  "shopify": {
+    "accessToken": "f21d5f7de2f2fcfccb0c214f980c2b72",
+    "domain": "sweet-light-studios.myshopify.com",
+    "appId": "6"
+  },  
+
+ "blog": {
+    "domain": "https://public-api.wordpress.com/rest/v1.1/sites/sweetlightstudiosfr.wordpress.com/",
+    "title" : "Sweet Light Studios (Blog)",
+    "categoriesTitle": "Catégories: "
+  },
+
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "image": "/img/faq.jpg",    
+    "copy": [
+      "<p>",
+        "<br />",
+        "<b>Quels vêtements dois-je porter à mon Portrait Session?</b><br />",
+        "Les couleurs solides sont les meilleures, car les modèles se distraient de votre visage.<br />",
+        "Les têtes ne montrent que le haut de votre corps, donc c'est ce qui est important.<br />",
+        "Des longueurs complètes nécessiteront des vêtements et des chaussures<br />",
+        "Assurez-vous d'inclure un blanc solide ou noir solide.<br /",
+        "Pour les familles, essayez de faire correspondre les couleurs.<br />",
+        "<br />",
+        "<b>Devrais-je acheter de nouveaux vêtements, faire mes cheveux avant ma Session Portrait?</b><br />",
+        "Oui bien sûr! <br />",
+        "Vous pouvez transformer votre session photo en une expérience merveilleuse grâce à la privatisation et au shopping.<br />",
+        "<br />",
+        "<b>Puis-je amener un ami avec moi?</b><br />",
+        "Oui bien sûr!<br />",
+        "Oui, amenez votre mère, votre soeur, votre meilleur ami, et passez-en une Fête des Filles!<br />",
+        "Laissez-nous savoir quand vous amenez les autres et si vous serez partie du tournage.",
+        "<br />",
+        "<b>Comment fonctionnent vos sessions de portrait?</b><br />",
+        "Nous avons une variété de sessions de dessins pour répondre à de nombreux besoins, ",
+        "Des tirs à la tête rapides aux mini-sessions pour les séances de glamour complet. <br />",
+        "J'essaie de rendre les séances détendues et amusantes, en utilisant diverses poses tout en entraînant doucement l'émotion  ",
+        "Et l'énergie à travers la lentille pour faire des portraits étonnants que vous adorerez.<br />",
+        "<br />",
+        "<b>Combien de temps vos sessions de Portrait prennent-elles?</b><br />",
+        "En moyenne, les sessions durent environ trente minutes pour les tirs à la tête,",
+        "Une heure pour les mini-sessions et jusqu'à quatre heures pour les séances de maquillage. <br />",
+        "Si vous êtes pressé, veuillez nous le faire savoir avant votre arrivée. <br />",
+        "<br />",
+        "<b>Quand puis-je programmer ma session Portrait?</b><br />",
+        "Les horaires sont disponibles du mardi au dimanche de 10h à 15h.<br />",
+        "<br />",
+        "<b>Faites-vous des commandes personnalisées?</b><br />",
+        "Oui. Nous sommes flexibles pour répondre à vos besoins.<br />",  
+        "Contactez-nous avec vos idées!",
+      "</p>"
+    ]
+  },
+
+   "credits": {
+    "title": "Les crédits pour la merveilleuse technologie utilisée sur ce site web",
+    "vid": "https://www.youtube.com/embed/U7MPmYHANMU",    
+    "roll": [{ 
+        "title" : "Hypertext Markup Language V5 (HTML5)",
+        "details": [
+          "HTML5 est un langage de balisage utilisé pour la structuration et la présentation de contenu sur le World Wide Web.<br />",
+          "Même lorsque codées au moyen de réagir et de Javascript, HTM5 tags sont souvent utilisés directement dans le code.<br />",
+          "Au moment où une app réagir atteint le navigateur, il a été converti en HTML5.  "
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png",
+        "alt": "HTML5 logo",
+        "link": "https://en.wikipedia.org/wiki/HTML5",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "fadeInDown"
+      },{ 
+        "title" : "Cascading Style Sheets V3 (CSS3) ",
+        "details": [
+          "CSS3 est un langage utilisé pour décrire la présentation d'un document de balisage.<br />",
+          "Il a été utilisé pour changer la présentation de la plupart des utilisations HTML sur le site web.  "
+        ],
+        "image": "https://4.bp.blogspot.com/-_jtoi-CBS3E/UDg91M4DgLI/AAAAAAAAC1Q/prAGfj6OSG4/s1600/css3-search-box.png",
+        "alt": "CSS3 logo",
+        "link": "https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "rubberBand"
+      },{ 
+        "title" : "Javascript ECMAScript V6 (ES6)",
+        "details": [
+          "ES6 est un langage de script de marque-specificationin créé pour normaliser l'activation de JavaScript.<br />",
+          "L'ES6 version du code Javascript a été utilisé pour la plupart des site web en utilisant les flèches en gras, objets étendus, classes et abréviations.  "
+        ],
+        "image": "https://frontendmasters.com/assets/es6-logo.png",
+        "alt": "ES6 logo",
+        "link": "http://es6-features.org",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "lightSpeedIn"
+      },{ 
+        "title" : "Node.js",
+        "details": [
+          "Node.js est un open-source, multi-plateforme JavaScript environnement d'exécution pour l'exécution de code JavaScript côté serveur.<br />",
+          "Il doit être installé avant d'installer ou de tout mécanisme du MNP modules utilisés pour créer le site web."
+        ],
+        "image": "https://code-maven.com/img/node.png",
+        "alt": "Node JS shield",
+        "link": "https://nodejs.org/en/",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "bounceInDown"
+      },{ 
+        "title" : "Node NPM",
+        "details": [
+          "Node npm est un gestionnaire de paquet pour le langage de programmation JavaScript.<br />",
+          "Il a été utilisé pour installer la plupart des logiciels utilisés par ce site web."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/320px-Npm-logo.svg.png",
+        "alt": "npm logo",
+        "link": "https://www.npmjs.com",
+        "leftAnimation": "fadeInLeft",
+        "rightAnimation": "rotateIn"
+      },{ 
+        "title" : "Git",
+        "details": [
+          "Git est un système de contrôle de version pour suivre les modifications dans des fichiers informatiques.<br />",
+          "Il a été utilisé pour sauvegarder le site web logiciel de github et installer le site sur Heroku."
+        ],
+        "image": "https://avatars1.githubusercontent.com/u/18133?v=4&s=400",
+        "alt": "Git logo",
+        "link": "https://git-scm.com/downloads",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "zoomInDown"
+      },{ 
+        "title" : "Create React App",
+        "details": [
+          "Create React Apps sans configuration de fabrication..<br />",
+          "Il a été utilisé pour créer un squelette de projet réagir utilisée pour ce site."
+        ],
+        "image": "https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/092/thumb/EGH_ProductReact-2.png",
+        "alt": "Creat React App",
+        "link": "https://github.com/facebookincubator/create-react-app",
+        "leftAnimation": "flip",
+        "rightAnimation": "rubberBand"
+      },{ 
+        "title" : "WebPack",
+        "details": [
+          "Webpack est une fardeleuse pour modules. Il peut regrouper les JavaScript ou transformer, bundle, ou le paquet juste au sujet de n'importe quelle ressource ou d'un actif pour une utilisation dans un navigateur.<br />",
+          "C'est l'un des paquets installés automatiquement parCreate React App.<br />",
+          "Utilisé par le squelette créé par Create Réagir App pour regrouper le javascript, des ressources et des actifs, avant de lancer le site."
+        ],
+        "image": "https://webpack.js.org/assets/icon-square-big.svg",
+        "alt": "WebPack logo",
+        "link": "https://www.npmjs.com/package/webpack",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "fadeInRight"
+      },{ 
+        "title" : "React",
+        "details": [
+          "React est une bibliothèque JavaScript open-source pour construire des interfaces utilisateur.<br />",
+          "C'est l'un des paquets installés automatiquement par Create React App.<br />",
+          "Utilisé pour la création de la plupart des Sweet Light Studios site web."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png",
+        "alt": "React logo",
+        "link": "https://facebook.github.io/react/",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "lightSpeedIn"
+      },{ 
+        "title" : "Redux",
+        "details": [
+          "Redux est une bibliothèque JavaScript open-source conçu pour la gestion de l'état de l'application.<br />",
+          "Il a été installé via NPM directement après avoir créé l'App Créer réagir réagir squelette.<br />",
+          "Il a été utilisé pour gérer l'état de la plupart des Sweet Light Studios site Web."
+        ],
+        "image": "https://raw.githubusercontent.com/reactjs/redux/master/logo/logo.png",
+        "alt": "Redux Logo",
+        "link": "http://redux.js.org",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "lightSpeedIn"
+      },{ 
+        "title" : "React Router",
+        "details": [
+          "Réagir routeur est une collection de composants de navigation qui la composent de manière déclarative avec votre application.<br />",
+          "Il a été installé et utilisé de la NGP mia pour traduire Sweet Light Studios point d'urls pour passer à réagir différents composants via le routeur_article.js composant."
+        ],
+        "image": "https://reacttraining.com/react-router/android-chrome-144x144.png",
+        "alt": "React Router Logo",
+        "link": "https://reacttraining.com/react-router/",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "lightSpeedIn"
+      },{ 
+        "title" : "Axios",
+        "details": [
+          "Promesse client HTTP en fonction pour le navigateur et node.js<br />",
+          "Il a été utilisé pour appeler des noeuds finaux sur un certain nombre de sites et de promesses de retour de données JSON."
+        ],
+        "image": "https://silvrback.s3.amazonaws.com/uploads/52319cc5-df9f-407d-80d9-1e3817aa64b1/totem_large.jpg",
+        "alt": "Matt Zabriskie's Totem Image",
+        "link": "https://www.npmjs.com/package/axios",
+        "leftAnimation": "bounceInUp",
+        "rightAnimation": "bounceInDown"
+      },{ 
+        "title" : "Redux Promise",
+        "details": [
+          "FSA-conforme promesse middleware de Redux.<br />",
+          "Installé via NPM et a été utilisée pour appeler les réducteurs Redux avec le JSON de résolu Axios promesses."
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlUSYPhttHVUDvh97RWGd1fwcql0UgFMyew6a22R6i1nkpO9UHZg",
+        "alt": "Generic Redux Middleware Image",
+        "link": "https://www.npmjs.com/package/redux-promise",
+        "leftAnimation": "bounceInDown",
+        "rightAnimation": "rubberBand"
+      },{ 
+        "title" : "HTML React Parser",
+        "details": [
+          "L'analyseur convertit une chaîne HTML à réagir) Élément(s).<br />",
+          "Installé via NPM et utilisé pour analyser les données de chaîne HTML Config et les paramètres dans React Components."
+        ],
+        "image": "https://s.gravatar.com/avatar/bf970d55fd4e8201beff970bafbdfac9?size=496&default=retro",
+        "alt": "Remarkable Mark",
+        "link": "https://www.npmjs.com/package/html-react-parser",
+        "leftAnimation": "bounceInUp",
+        "rightAnimation": "bounceInUp"
+      },{ 
+        "title" : "React Bootstrap",
+        "details": [
+          "React-Bootstrap est une bibliothèque de composants réutilisables en fin d'avant.<br />",
+          "Il a été installé via NPM et utilisé pour donner à ce site un aspect cohérent sur mobile ainsi que d'appareils standard."
+        ],
+        "image": "https://avatars2.githubusercontent.com/u/6853419?v=4&s=400",
+        "alt": "React-Bootstrap Logo",
+        "link": "https://react-bootstrap.github.io",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "fadeInRight"
+      },{ 
+        "title" : "React Slick Carousel",
+        "details": [
+          "Composant carrousel construit avec React.  Il s'agit d'une nappe de port réagir carrousel.<br />",
+          "Installé via NPM et utilisé pour afficher des images de carrousels dans bon nombre des articles primaires."
+        ],
+        "image": "https://s.gravatar.com/avatar/58db98286817c0d6ce9ee61c6094905f?size=100&default=retro",
+        "alt": "Akaron Gravatar",
+        "link": "https://www.npmjs.com/package/react-slick",
+        "leftAnimation": "flip",
+        "rightAnimation": "flip"
+      },
+      { 
+        "title" : "React Parallax",
+        "details": [
+          "Une composante React pour l'effet de parallaxe<br />",
+          "Installé via NPM et utilisé pour donner l'effet d'animation de parallaxe dans l'article de FAQ."
+        ],
+        "image": "https://avatars0.githubusercontent.com/u/1104171?v=4&s=460",
+        "alt": "Rutsche's Top of Head Image",
+        "link": "https://www.npmjs.com/package/react-parallax",
+        "leftAnimation": "bounceInUp",
+        "rightAnimation": "bounceInUp"
+      },{ 
+        "title" : "React Dom Confetti ",
+        "details": [
+          "Une composante réagir pour déclencher des explosions de confettis sur des changements d'état.<br />",
+          "Installé via NPM et utilisé pour ajouter un effet de confettis dans l'article Merci"
+        ],
+        "image": "https://s.gravatar.com/avatar/9805463ccdd2319b2ad005f03e8f23dd?size=100&default=retro",
+        "alt": "Daniel's Gravatar",
+        "link": "https://www.npmjs.com/package/react-dom-confetti/",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "faceInDown"
+      },{ 
+        "title" : "React Reveal",
+        "details": [
+          "Animation de tout révéler ajoute React. Il est compatible avec l'animation.css<br />",
+          "Installé via NPM et utilisée dans cet article avec aniate.css pour effectuer les animations en fonction de défilement"
+        ],
+        "image": "https://s.gravatar.com/avatar/b1108527407c651ec1f59a9903841152?size=496&default=retro",
+        "alt": "Roman's Gravatar Image",
+        "link": "https://www.npmjs.com/package/react-reveal",
+        "leftAnimation": "zoomIn",
+        "rightAnimation": "zoomIn"
+      },{ 
+        "title" : "amimate.css ",
+        "details": [
+          "Une bibliothèque de cross-navigateur d'animations CSS.<br />",
+          "Téléchargé sur le dossier src et utilisé avec réagir - révèlent d'effectuer les animations en fonction de défilement."
+        ],
+        "image": "https://daneden.imgix.net/2017/05/genart.jpg?auto=format&dpr=2&ixjsv=2.0.0&q=50&w=230",
+        "alt": "Intersting image by daneden",
+        "link": "https://daneden.github.io/animate.css/",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "bounceInDown"
+      },
+      { 
+        "title" : "Shopify Buy SDK",
+        "details": [
+          "La 'shopify-buy' donner un moyen d'obtenir des informations d'un shopify.com store.<br />",
+          "Installé via NPM et utilisé pour afficher shopify stocker des informations en anglais et en français.<br />",
+          "Produit prend en charge, de collections, de panier et de commande en ligne dans le site web d'articles."
+        ],
+        "image": "https://cdn.shopify.com/assets/images/logos/shopify-bag.png",
+        "alt": "Shopify Logo",
+        "link": "https://shopify.github.io/js-buy-sdk/examples/",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "fadeInRight"
+      },{ 
+        "title" : "Wordpress REST API",
+        "details": [
+          "Terminaux pour accéder aux données dans un blog Wordpress.<br />",
+          "Used for displaying english and french Wordpress.com Blogs in the Website."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/300px-WordPress_blue_logo.svg.png",
+        "alt": "Wordpress.com logo",
+        "link": "https://developer.wordpress.com/docs/api/",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "bounceInUp"
+      },{ 
+        "title" : "Youtube Video Endpoint",
+        "details": [
+          "Fin de points pour l'intégration d'une vidéo youtube.<br />",
+          "Utilisé pour afficher une vidéo sur le site web dans les crédits de l'article."
+        ],
+        "image": "https://lh3.googleusercontent.com/rLpZasfPD2_qOhhnesx_rfZ539shp2hRRjicoaB5fA0sldYEWuTLgLxcuOsnD4SNajdknzD9AuQ8JpazITPqRPWruGDZ0g=s688",
+        "alt": "Youtube Endpoint",
+        "link": "https://developers.google.com/youtube/",
+        "leftAnimation": "fadeInLeft",
+        "rightAnimation": "fadeInRight"
+      },{ 
+        "title" : "Google Maps API",
+        "details": [
+          "Fin de points pour obtenir les cartes Google<br />",
+          "Il a été utilisé pour afficher une carte pour Sweet Light Studios dans l'article contacts."
+        ],
+        "image": "https://www.gstatic.com/images/branding/product/1x/maps_64dp.png",
+        "alt": "Google Maps Api Logo",
+        "link": "https://developers.google.com/maps/documentation/javascript/?hl=en_US",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "zoomIn"
+      },{ 
+        "title" : "Formspree io",
+        "details": [
+          "Les paramètres d'un formulaire HTML simple qui envoie par courrier électronique.<br />",
+          "Il a été utilisé pour envoyer le formulaire de contact pour Sweet Light Studios par courrier électronique."
+        ],
+        "image": "https://cms-assets.tutsplus.com/uploads/users/30/posts/23870/preview_image/formspree-main-image-2.png",
+        "alt": "formspree io logo",
+        "link": "https://formspree.io",
+        "leftAnimation": "lightSpeedIn",
+        "rightAnimation": "zoomInUp"
+      },{ 
+        "title" : "AirVisual API",
+        "details": [
+          "Fin de points pour obtenir de l'information qualité de l'air en temps réel.<br />",
+          "Il a été utilisé dans l'affichage de la touche de la qualité de l'air dans les contacts l'article."
+        ],
+        "image": "https://lh3.googleusercontent.com/-bA8XSMtpwwc/AAAAAAAAAAI/AAAAAAAAABI/zGWn2BDcNkA/s60-p-no/photo.jpg",
+        "alt": "Air Visual Logo",
+        "link": "https://airvisual.com/api",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "flash"
+      },{ 
+        "title" : "React Social Icons ",
+        "details": [
+          "Icônes sociales standard le plus utilisé pour les sites sociaux.<br />",
+          "Installé via NPM et a été utilisé dans la barre de boutons sociaux sur la partie inférieure de chaque page."
+        ],
+        "image": "https://i.imgur.com/RoIt9OD.png",
+        "alt": "React Social Icons",
+        "link": "https://www.npmjs.com/package/react-social-icons",
+        "leftAnimation": "fadeInLeft",
+        "rightAnimation": "fadeInRight"
+      },{ 
+        "title" : "L'icône du site",
+        "details": [
+          "Le site icône est utilisée dans l'onglet navigateur lorsqu'un navigateur est l'affichage Sweet Light Studios.<br />",
+          "It is licensed as Linkware so a backlink to http://icons8.com is required."
+        ],
+        "image": "/img/portrait.png",
+        "alt": "License: Linkware (Backlink to http://icons8.com required)",
+        "link": "http://icons8.com",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "zoomInRight"
+      },{ 
+        "title" : "Drapeau Américain",
+        "details": [
+          "L'icône du Drapeau Américain est utilisé comme un bouton dans la barre sociale pour passer à l'Anglais.<br />",
+          "C'est licencié comme si un lien vers Cablemanager http://icons8.com est requis."
+        ],
+        "image": "/img/icons8-USA-48.png",
+        "alt": "License: Linkware (Backlink to http://icons8.com required)",
+        "link": "http://icons8.com",
+        "leftAnimation": "tada",
+        "rightAnimation": "zoomInLeft"
+      },{ 
+        "title" : "Drapeau Français.",
+        "details": [
+          "L'icône du Drapeau Français est utilisé comme un bouton dans la barre de changement social pour le Français.<br />",
+          "C'est licencié comme si un lien vers Cablemanager http://icons8.com est requis."
+        ],
+        "image": "/img/icons8-France-48.png",
+        "alt": "License: Linkware (Backlink to http://icons8.com required)",
+        "link": "http://icons8.com",
+        "leftAnimation": "jello",
+        "rightAnimation": "jello"
+      },{ 
+        "title" : "Enveloppe Poste",
+        "details": [
+          "L'enveloppe poste est utilisé comme un bouton dans la barre sociale pour envoyer un e-mail à Sweet Light Studios.<br />",
+          "C'est licencié comme si un lien vers Cablemanager Flaticon est requis."
+        ],
+        "image": "/img/email-envelope.svg",
+        "alt": "mail-envelope backlink required to flaticon",
+        "link": "http://www.flaticon.com/authors/simpleicon",
+        "leftAnimation": "lightSpeedIn",
+        "rightAnimation": "lightSpeedIn"
+      },{ 
+        "title" : "Merci GIF",
+        "details": [
+          "Le GIF est de vous remercier giphy.com<br />",
+          "Est est utilisée comme image d'arrière-plan dans l'article Je vous remercie. "
+        ],
+        "image": "https://media.giphy.com/media/o4LHcRDeiHims/giphy.gif",
+        "alt": "Thank You GIF",
+        "link": "https://giphy.com/gifs/thank-you-o4LHcRDeiHims",
+        "leftAnimation": "fadeInLeft",
+        "rightAnimation": "fadeInRight"
+      },{ 
+        "title" : "Chrome Browser + Developer Tools",
+        "details": [
+          "Google Chrome est un navigateur web gratuit développé par Google.<br />",
+          "En plus de la navigation standard, il prend en charge un riche développement, le débogage et le profilage de l'environnement.<br />",
+          "Il supporte des plugins pour ajouter à ses fonctionnalités et a été largement utilisé pour la réalisation du site.<br />",
+          "Des greffons supplémentaires comprennent:<br />",
+          "React Developer Tools - Prend en charge le débogage React à l'intérieur de Chrome.<br />",
+          "Postman - Prend en charge l'exécution POST, GET, etc. directement à un serveur back-end de Chrome, important lors du débogage d'avant-plan les questions d'arrière-plan.<br />",
+          "JSON Formatter - Prend en charge un grand blob de texte JSON retourné en général à partir d'un serveur et l'embellir en une forme lisible par l'homme.<br />",
+          "GSDD - Offre un support optimal le téléchargement sous-repos à partir de GIT hub, quand il y a des problèmes pour trouver les bébés de GIT hub<br />",
+          "Screencastify - Enregistreur d'écran qui prennent en charge la saisie et le partage d'écran avec des voix off pour des questions de partage et de didacticiels."
+        ],
+        "image": "https://lh3.googleusercontent.com/nYhPnY2I-e9rpqnid9u9aAODz4C04OycEGxqHG5vxFnA35OGmLMrrUmhM9eaHKJ7liB-=w300",
+        "alt": "Chrome logo",
+        "link": "https://developers.google.com/web/tools/chrome-devtools/",
+        "leftAnimation": "bounceInDown",
+        "rightAnimation": "bounceInDown"
+      },{ 
+        "title" : "Github",
+        "details": [
+          "GitHub est une version web du référentiel de contrôle.<br />",
+          "Il est utilisé à l'open source du logiciel pour ce site."
+        ],
+        "image": "https://i1.wp.com/blog.rapidapi.com/wp-content/uploads/2017/01/octocat.gif",
+        "alt": "Github logo",
+        "link": "",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "flip"
+      },{ 
+        "title" : "Heroku",
+        "details": [
+          "Heroku est une plate-forme de cloud computing as a service, PaaS, utilisé pour le déploiement d'applications web.<br />",
+          "Il a été utilisé comme un moyen simple pour déployer le site internet réagir via Git."
+        ],
+        "image": "https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/04/1461122387heroku-logo.jpg",
+        "alt": "Heroku Logo",
+        "link": "https://www.heroku.com/",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "bounceInDown"
+      },{ 
+       "title" : "Amazon S3",
+        "details": [
+          "Amazon S3 offre un espace de rangement à travers les interfaces de services web<br />",
+          "Il a été utilisé pour contenir les images pour le site web."
+        ],
+        "image": "https://shinesg.files.wordpress.com/2015/05/amazons3.png",
+        "alt": "Amazon S3 Logo",
+        "link": "https://s3.console.aws.amazon.com/s3/",
+        "leftAnimation": "lightSpeedIn",
+        "rightAnimation": "lightSpeedIn"
+      },{ 
+      "title" : "Amazon Cloudfront",
+        "details": [
+          "Amazon CloudFront est un vaste réseau de content delivery network (CDN) <br />",
+          "Il a été utilisé pour distribuer les images pour le site web."
+        ],
+        "image": "https://d1z19cgxissi8p.cloudfront.net/wp-content/uploads/2012/02/amazon-cloudfront-logo.jpg",
+        "alt": "Cloudfront Logo",
+        "link": "https://aws.amazon.com/cloudfront/",
+        "leftAnimation": "lightSpeedIn",
+        "rightAnimation": "lightSpeedIn"
+      },{ 
+        "title" : "shopify.com Store and Partner Program",
+        "details": [
+          "Le programme se compose de partenaires Shopify designers, développeurs, créatifs et construire des sites web de commerce électronique, des thèmes et des applications en utilisant la plateforme Shopify.<br />",
+          "Il a été utilisé pour créer une boutique Shopify, produits, et des collections qui ont été obtenus via le SDK de Shopify visées ci-dessus."
+        ],
+        "image": "https://cdn.shopify.com/assets/images/logos/shopify-bag.png",
+        "alt": "mail-envelope backlink required to flaticon",
+        "link": "https://www.shopify.com/partners",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "jello"
+      },{ 
+      "title" : "Zoho.com",
+        "details": [
+          "Zoho propose un ensemble de services, y compris un serveur de messagerie.<br />",
+          "Utilisé pour transférer le courrier électronique envoyé à sweetlightstudios.com à d'autres comptes sur d'autres serveurs."
+        ],
+        "image": "https://www.zoho.com/images/zoho-download.png",
+        "alt": "Zoho.com logo",
+        "link": "https://mail.zoho.com",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "wobble"
+      },{  
+        "title" : "Wordpress.com Blogs",
+        "details": [
+          "WordPress.com est un blog web hosting service provider administré par Automattic, et propulsé par l'open source WordPress.org logiciel.<br />",
+          "Utilisé pour la création de l'Anglais et le Français worpress.com blog sites que sont l'accès via la terminaison wordpress visées ci-dessus."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/300px-WordPress_blue_logo.svg.png",
+        "alt": "Wordpress.com logo",
+        "link": "https://developer.wordpress.com/docs/api/",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "wobble"
+      },{ 
+        "title" : "Sublime Text Programming Editor",
+        "details": [
+          "Texte Sublime est un multi-plateforme propriétaire éditeur de code source.<br />",
+          "Utilisé pour le montage et l'essai tout sur le site Web via $ subl . <br />",
+          "Utilisé un groupe de plugins pour ajouter des fonctionnalités :  <br />",
+          "Package Control - Nécessaires à l'installation des autres plugins. <br />", 
+          "Sublime Linter - Nécessaires à l'installation d'autres linters de coton. <br />",
+          "SublimeLinter-contrib-eslint - Je crois qu'ESLint est la meilleure linter pour ES6 l'activation de Javascript. <br />", 
+          "Babel - Les définitions de syntaxe pour ES6 réagissent avec JavaScript JSX extensions.  <br />", 
+          "SublineCodeIntel - La saisie semi-automatique dans une variété de langues.  <br />",
+          "Color Highlighter - Définitions de couleur Faits saillants avec leur couleur actuelle et offre un menu Sélecteur de couleurs pour permettre de changer de couleur plus facile.  <br />",
+          "CSScomb - Formateur de style CSS pour embellir et organiser le contenu des fichiers CSS. <br />",
+          "Git - Intégration avec git texte sublime.  <br />",
+          "GitGutter - Voir git diff dans sublime gouttière.  <br />",
+          "Autoprefixer - Votre préfixe CSS.  <br />",
+          "SASS - En appui du SASS Texte Sublime.  ",
+          "SASS Build - Système de construction de SASS pour un texte 2.  <br />",
+          "Sublime on save build - Construire un trigger lorsque vous enregistrez  <br />",   
+          "SublimeLinter-html-tidy - Beautify HTML.  "
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/Sublime_Text_Logo.png",
+        "alt": "Sublime Text logo",
+        "link": "https://www.sublimetext.com",
+        "leftAnimation": "bounceInLeft",
+        "rightAnimation": "fadeInUp"
+      },{ 
+        "title" : "Reflector 2",
+        "details": [
+          "Réflecteur est un miroir sans fil et récepteur streaming de AirSquirrels . <br />",
+          "Utilisé lors de l'explanitory Vidéos et démos donnant pour afficher les périphériques mobiles sur l'écran du bureau."
+        ],
+        "image": "https://airsquirrels-images.s3-us-west-2.amazonaws.com/press/wp-content/uploads/2015/07/23114449/Reflector-2.png",
+        "alt": "Reflector Logo",
+        "link": "http://www.airsquirrels.com/reflector/",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "lightSpeedIn"
+      },{ 
+        "title" : "Balsomic Markups",
+        "details": [
+          "Les maquettes Balsamiq est un outil de wireframing rapide qui produit des wireframes qui ont l'apparence de tableau blanc. <br />",
+          "Il a été utilisé pour concevoir une partie de la mise en page pour le site web."
+        ],
+        "image": "https://blog.balsamiq.com/wp-content/uploads/2009/11/appicon_final_1_512x512.png",
+        "alt": "Balsamic Markups Logo",
+        "link": "https://balsamiq.com",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "fadeInRight"
+      },{ 
+        "title" : "Inkscape SVG Editor",
+        "details": [
+          "Inkscape est un logiciel gratuit et open-source éditeur de graphiques vectoriels. <br />",
+          "Il a été utilisé pour créer l'icône du site original, c'est remplacer avant la dernière version du site web."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1024px-Inkscape_Logo.svg.png",
+        "alt": "Inkscape Logo",
+        "link": "https://inkscape.org/en/",
+        "leftAnimation": "rotateIn",
+        "rightAnimation": "jello"
+      }
+    ]
+  }
+
+}

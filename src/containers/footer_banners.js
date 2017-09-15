@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux'; // glue between react and redux
-import { bindActionCreators } from 'redux';
-import { changeSiteConfigLanguage } from '../actions/index.js';
 import { SocialIcon } from 'react-social-icons';
 import { Well } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
@@ -57,5 +55,4 @@ class FooterBanners extends Component {
 }
 
 const mapStateToProps = (state) => ({ siteConfig: state.siteConfig  });
-const mapDispatchToProps = (dispatch) => bindActionCreators({ changeSiteConfigLanguage }, dispatch);
-export default connect(mapStateToProps, mapDispatchToProps) (FooterBanners);
+export default connect(mapStateToProps) (FooterBanners);

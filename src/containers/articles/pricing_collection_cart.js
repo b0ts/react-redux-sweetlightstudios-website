@@ -16,7 +16,7 @@ class PricingCollectionCart extends Component {
 		this.props && this.props.createShoppingCart(this.props.siteConfig.shopify);
 	};
 	//  willMount called when the router switches components
-  componentWillMount() {
+        componentWillMount() {
   	(this.props.location.pathname.includes('/pricing/')) 
   		&& this.props.articleMounting(this.props.location.pathname.slice(9, -1)); 
 		(this.props.location.search.includes('collection='))
